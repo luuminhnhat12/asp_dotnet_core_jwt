@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpBy/7r4I9M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\asp_dotnet_core_jwt\\ASP_DOTNET_JWT\\ASP_DOTNET_JWT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
