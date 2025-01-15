@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jWbVRYsoYhPR+myLYi2Ya0iFH85NwammwHdX3oHl5AU=",
+  "Source": "ASP_DOTNET_JWT",
+  "BasePath": "_content/ASP_DOTNET_JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
